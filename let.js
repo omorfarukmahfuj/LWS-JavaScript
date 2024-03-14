@@ -9,4 +9,4 @@
 }
 
 console.log(x);
-console.log(y); // this will give an error
+// console.log(y); // this will give an error
